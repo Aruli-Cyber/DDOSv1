@@ -1,4 +1,4 @@
-# FB-Cracker Termux
+# DDOSv1
 
 <ul>
 <li><code>pkg install git python3</code></li>
